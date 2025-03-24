@@ -69,37 +69,5 @@ Add screenshots of the project here:
 ![Screenshot 1](assets/images/screenshot1.png)  
 ![Screenshot 2](assets/images/screenshot2.png)  
 
----
-🌍✨ Enjoy building and customizing your **Parallax Website (Nature)!** 🎉
-
-shubhamKumarRaman/parallax-website-nature.git
-   ```
-2. **📁 Navigate to the Project Directory:**  
-   ```sh
-   cd parallax-website-nature
-   ```
-3. **🌐 Open `index.html` in a Browser:**  
-   Simply double-click on `index.html` or use a local server.
-
-## 🎯 How to Customize
-🖼️ Update images in the `assets/images` folder.  
-🎨 Modify styles in `style.css`.  
-⚙️ Adjust animations and effects in `script.js`.  
-
-## 📜 License
-📝 This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.  
-
-## 🤝 Contributing
-🚀 Contributions are welcome! Feel free to fork this project and submit a pull request.  
-
-## 📧 Contact
-📩 For any inquiries or suggestions, reach out at **your.email@example.com**.  
-
-## 📸 Screenshots
-Add screenshots of the project here:  
-![Screenshot 1](assets/images/screenshot1.png)  
-![Screenshot 2](assets/images/screenshot2.png)  
-
----
 🌍✨ Enjoy building and customizing your **Parallax Website (Nature)!** 🎉
 
