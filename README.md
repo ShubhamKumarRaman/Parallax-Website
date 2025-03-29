@@ -64,10 +64,8 @@ Parallax Website (Nature) is a visually immersive web project that uses smooth s
 ## 📧 Contact
 📩 For any inquiries or suggestions, reach out at **shubham582120@gmail.com**.  
 
-## 📸 Screenshots
-Add screenshots of the project here:  
-![Screenshot 1](assets/images/screenshot1.png)  
-![Screenshot 2](assets/images/screenshot2.png)  
+## 🌐 Live Preview
+🔗 [Click here to view the live demo](https://shubhamkumarraman.github.io/Parallax-Website/)  
 
 🌍✨ Enjoy building and customizing your **Parallax Website (Nature)!** 🎉
 
